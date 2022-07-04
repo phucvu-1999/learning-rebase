@@ -1,8 +1,5 @@
 ONE
-<<<<<<< HEAD
 TWO
 THREE
 FOUR
-=======
 TWO
->>>>>>> 7056a2dce67922654705a173e6e98c431a71f7f3
